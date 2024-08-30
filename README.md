@@ -1,4 +1,4 @@
-#Conversor de medidas#
+CONVERSOR DE MEDIDAS
 
 Realizamos un programa en python con pandas y OpenPyXl en el cual leemos un archivo excel y convertimos las unidades de centimetros en pulgadas
 
