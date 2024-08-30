@@ -1,0 +1,5 @@
+pandas
+openpyxl
+
+#instalar
+#pip install -r .\requirements.txt
